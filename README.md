@@ -24,6 +24,13 @@ IT professional with 14+ years of experience in software development, project ma
 - **Badge**: `First Four`
 - _[View my TryHackMe profile](https://tryhackme.com/p/atomant78)_
 
+## 🏅 TryHackMe Progress
+
+![First Four Badge](./images/first-four.png)
+
+🔗 [View badge on TryHackMe](https://tryhackme.com/atomant78/badges/first-4-rooms)
+
+
 ## 🛠️ Skills
 
 | Area            | Tools & Technologies                             |
