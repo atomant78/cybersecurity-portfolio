@@ -34,5 +34,9 @@ IT professional with 14+ years of experience in software development, project ma
 | Languages       | Portuguese (native), English (advanced), French (A1 - learning) |
 
 ---
+markdown
+![Linux Fundamentals Badge](images/linux-fundamentals-badge.png)
+![First Four Badge](images/first-four-badge.png)
+
 
 _This portfolio is constantly evolving as I continue my transition into cybersecurity._
