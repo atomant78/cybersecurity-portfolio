@@ -46,7 +46,8 @@ markdown
 ![First Four Badge](images/first-four-badge.png)
 
 ---
-![HTTP in Detail Badge](./images/badge-http.png)  
+![HTTP in Detail Badge](./images/secure_awareness.png) 
+![HTTP in Detail Badge](./images/web-fund.png)
 [Veja no TryHackMe](https://tryhackme.com/atomant78/badges)
 
 _This portfolio is constantly evolving as I continue my transition into cybersecurity._
